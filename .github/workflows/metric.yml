@@ -56,7 +56,7 @@ jobs:
           plugin_topics_sort: stars
 
 
-      - name: 📊 Left Metrics
+      - name: 📊 Right Metrics
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
