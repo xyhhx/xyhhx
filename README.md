@@ -24,5 +24,5 @@ d888" Y888*"  x888N><888'  888E  888E  888E  888E d888" Y888*"
 
 
 <p align="center">
-    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://raw.githubusercontent.com/xyhhx/xyhhx/main/github-metrics.svg" /></a>
+    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://raw.githubusercontent.com/xyhhx/xyhhx/main/metrics-general.svg" /></a>
 </p>
