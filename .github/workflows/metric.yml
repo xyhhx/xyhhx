@@ -54,15 +54,3 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: mastered
           plugin_topics_sort: stars
-
-      - name: 📊 Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics-achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
