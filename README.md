@@ -27,7 +27,8 @@ d888" Y888*"  x888N><888'  888E  888E  888E  888E d888" Y888*"
 
   <p align="center">ℹ️ Github is not the only forge I use, so these stats aren't reflective of my global activity</p>
   <p align="center">
-      <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://raw.githubusercontent.com/xyhhx/xyhhx/main/metrics-general.svg" /></a>
+      <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://raw.githubusercontent.com/xyhhx/xyhhx/main/metrics-left.svg" /></a>
+      <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://raw.githubusercontent.com/xyhhx/xyhhx/main/metrics-right.svg" /></a>
   </p>
 </details>
 
