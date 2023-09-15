@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 690kb of code in 693 edited files across 199 commits</small>
+                <small>estimation from 692kb of code in 695 edited files across 201 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="114.82232308490107" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="114.82232308490107" y="0" width="37.7363634905615" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="152.5586865754626" y="0" width="29.402148054294774" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="181.96083462975736" y="0" width="8.717850021117009" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="190.67868465087437" y="0" width="6.811973077149257" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="197.49065772802362" y="0" width="6.2709499446680885" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="203.76160767269172" y="0" width="6.103724612810273" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="209.86533228550198" y="0" width="250.13466771449802" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="113.49954817605808" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="113.49954817605808" y="0" width="37.301633436028595" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="150.80118161208668" y="0" width="29.06342974005591" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="179.86461135214262" y="0" width="8.617418737746588" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="188.4820300898892" y="0" width="6.733497857139082" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="195.21552794702828" y="0" width="6.198707413611791" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="201.41423536064008" y="0" width="6.03340854924881" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="207.44764390988888" y="0" width="252.55235609011112" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -118,12 +118,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 102 commits)</small>
+                    <small class="h-details">(computed from last 104 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 25.7 characters per line of code written</li>
+                        <li>Has approximately 26.0 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
