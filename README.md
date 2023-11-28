@@ -22,7 +22,7 @@ d888" Y888*"  x888N><888'  888E  888E  888E  888E d888" Y888*"
 
 ---
 
-<details>
+<details open>
   <summary>📊 Github Insights</summary>
 
   <p align="center">ℹ️ Github is not the only forge I use, so these stats aren't reflective of my global activity</p>
