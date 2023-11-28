@@ -22,10 +22,12 @@ d888" Y888*"  x888N><888'  888E  888E  888E  888E d888" Y888*"
 
 ---
 
+> [!NOTE]  
+> Github is not the only forge I use, so these stats aren't reflective of my global activity.
+
 <details open>
   <summary align="center">📊 Github Insights</summary>
 
-  <p align="center">ℹ️ Github is not the only forge I use, so these stats aren't reflective of my global activity</p>
   <p align="center">
       <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img align="left" width="390" src="https://raw.githubusercontent.com/xyhhx/xyhhx/main/metrics-base.svg" /></a>
       <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img align="right" width="390" src="https://raw.githubusercontent.com/xyhhx/xyhhx/main/metrics-social.svg" /></a>
