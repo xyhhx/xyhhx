@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="794" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="799" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                                 </svg>
                                 🤖 ai/ml shit
                             </h2>
-                            <div class="count">21 repositories</div>
+                            <div class="count">22 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -32,11 +32,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="303.3333333333333" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="303.3333333333333" y="0" width="46.666666666666664" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="349.99999999999994" y="0" width="23.333333333333332" height="8" fill="#8f14e9"/>
-                                        <rect mask="url(#languages-bar)" x="373.3333333333333" y="0" width="23.333333333333332" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="396.66666666666663" y="0" width="23.333333333333332" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="287.36842105263156" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="287.36842105263156" y="0" width="44.21052631578947" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="331.57894736842104" y="0" width="22.105263157894736" height="8" fill="#8f14e9"/>
+                                        <rect mask="url(#languages-bar)" x="353.6842105263158" y="0" width="22.105263157894736" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="375.78947368421046" y="0" width="22.105263157894736" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="397.8947368421052" y="0" width="22.105263157894736" height="8" fill="#f34b7d"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -49,7 +50,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>61.9%</div>
+                                                <div>59.09%</div>
                                                 <div>13★</div>
                                             </small>
                                         </div>
@@ -61,7 +62,7 @@
                                                 Metal
                                             </div>
                                             <small>
-                                                <div>4.76%</div>
+                                                <div>4.55%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -73,7 +74,7 @@
                                                 Jupyter Notebook
                                             </div>
                                             <small>
-                                                <div>4.76%</div>
+                                                <div>4.55%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -87,7 +88,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>9.52%</div>
+                                                <div>9.09%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -99,7 +100,19 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>4.76%</div>
+                                                <div>4.55%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                C++
+                                            </div>
+                                            <small>
+                                                <div>4.55%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -114,23 +127,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>danny-avila/LibreChat</span>
+                                                <span>imartinez/privateGPT</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure…</div>
+                                        <div class="field description">Interact with your documents using the power of GPT, 100% privately, no data leaks</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                Python
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                6.51k
+                                                46.5k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -148,11 +161,11 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>bentoml/OpenLLM</span>
+                                                <span>joaomdmoura/crewAI</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Operating LLMs in production</div>
+                                        <div class="field description">Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -164,7 +177,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                7.79k
+                                                5.28k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -270,17 +283,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>EbookFoundation/free-programming-books</span>
+                                                <span>total-typescript/total-typescript-book</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">📚 Freely available programming books</div>
+                                        <div class="field description">The companion repo for the upcoming Total TypeScript book</div>
                                         <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                TypeScript
+                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                307k
+                                                620
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
