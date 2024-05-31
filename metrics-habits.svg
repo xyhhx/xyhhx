@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.09mb of code in 1319 edited files across 361 commits</small>
+                <small>estimation from 1.08mb of code in 1281 edited files across 357 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="50.004197350175474" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="50.004197350175474" y="0" width="7.755977927651747" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="57.76017527782722" y="0" width="6.499453904964081" height="8" fill="#646464"/>
-                    <rect mask="url(#languages-bar)" x="64.25962918279131" y="0" width="6.068313522280018" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="70.32794270507134" y="0" width="2.6090816593377855" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="72.93702436440913" y="0" width="2.3674813042111946" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="75.30450566862032" y="0" width="2.331595058993647" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="77.63610072761396" y="0" width="382.36389927238605" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="50.30060736016624" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="50.30060736016624" y="0" width="7.80195305807778" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="58.10256041824402" y="0" width="6.537980734690269" height="8" fill="#646464"/>
+                    <rect mask="url(#languages-bar)" x="64.64054115293428" y="0" width="6.104284680044433" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="70.7448258329787" y="0" width="2.624547519439394" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="73.36937335241811" y="0" width="2.381515029262712" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="75.75088838168082" y="0" width="2.220849198936705" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="77.97173758061751" y="0" width="382.0282624193825" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -110,7 +110,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 22 commits)</small>
+                    <small class="h-details">(computed from last 21 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
